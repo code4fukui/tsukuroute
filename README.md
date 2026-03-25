@@ -1,27 +1,21 @@
 # tsukuroute
-日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-tsukuroute is an open-source project developed by Code for FUKUI that provides a convenient way to plan and manage routes.
+A Web/Code project by [Code for FUKUI](https://github.com/code4fukui).
 
-## Features
+**Live demo**: https://code4fukui.github.io/tsukuroute/
 
-- Route planning and optimization
-- Collaborative route sharing
-- Integration with mapping services
-- Detailed route information and directions
+## Technology Stack
 
-## Usage
 
-To use tsukuroute, follow these steps:
+## Installation & Setup
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/CodeForFUKUI/tsukuroute.git
-   ```
-2. Install the necessary dependencies.
-3. Run the application.
+No build step required. Clone the repository and open `index.html` in a browser,
+or visit the live demo at https://code4fukui.github.io/tsukuroute/
 
-Detailed installation and usage instructions can be found in the project's documentation.
+## Contributing
+
+Contributions are welcome. Please open an issue or pull request on GitHub.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+
+MIT License. See [LICENSE](./LICENSE) for details.
